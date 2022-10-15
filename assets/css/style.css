@@ -448,28 +448,24 @@ section {
 }
 
 #about .social-links a {
-  font-size: 20px;
+  font-size: 24px;
   display: inline-block;
-  background: #0563bb;
-  color: #fff;
+  /*background: #0563bb;*/
+  color: #0563bb;/* #fff;*/
   line-height: 1;
-  padding: 8px 0;
-  margin-right: 4px;
-  border-radius: 50%;
+  /*padding: 8px 0;*/
+  margin-right: 10px;
+  /*border-radius: 50%;*/
   text-align: center;
-  width: 40px;
-  height: 40px;
+  width: 10px;
+  height: 10px;
   transition: 0.3s;
 }
 
 #about .social-links a:hover {
-  background: #0678e3;
-  color: #fff;
-  text-decoration: none;
-}
-
-.about .img {
-  width: 100%;
+  /*background: #0678e3;*/
+  color: #0678e3; /*#fff;
+  text-decoration: none;*/
 }
 
 /*--------------------------------------------------------------
